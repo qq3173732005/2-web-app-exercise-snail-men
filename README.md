@@ -1,15 +1,7 @@
-# Web Application Exercise
+An app for users to create an account with a username and profile picture, intended as a “building block” for a larger app that uses information from user accounts. Basically just an app for storing photos with the ability to feature one photo.
 
-A little exercise to build a web application following an agile development process. See the [instructions](instructions.md) for more detail.
-
-## Product vision statement
-
-An app for users to create an account with a username and profile picture, serving as a “building block” for a larger app that uses information from user accounts.
+Users can create an account, store photos, choose a photo to feature as a profile photo, view old photos and select one to feature, delete photos, and view other users' profiles if given the URL.
 
 ## User stories
 
 [Link to user stories](user_stories.md)
-
-## Task boards
-
-[Sprint 1](https://github.com/orgs/software-students-spring2024/projects/14/views/1)
